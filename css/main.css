@@ -29,7 +29,7 @@ a {
 .btn.btn-primary:hover,
 .btn.btn-primary.active {
   background-color: #1586c3;
-  -webkit-box-shadow: none;
+  -webkit-box-shadow: yes;
   -moz-box-shadow: none;
   box-shadow: none;
 }
